@@ -13,19 +13,6 @@ I use this as a reference while practicing and building projects — sharing it 
 
 ---
 
-## 📄 How to Use This
-
-I usually:
-
-1. Jump to a section from the table of contents
-2. Skim the explanation
-3. Look at the diagram if the words aren’t clicking
-4. Do a few 🧪 practice problems
-5. Come back later when I forget
-
-This isn’t meant to be perfect or complete — just *useful*.
-
----
 ## 📘 Sources & Practice
 
 Inspired by:
