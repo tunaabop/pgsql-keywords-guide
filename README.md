@@ -121,11 +121,19 @@ After:
 London
 Paris
 ```
-
 ⭐️ DISTINCT applies to the entire row.
 
+```sql
+SELECT DISTINCT ON (column1) column1, column2
+FROM table_name
+ORDER BY column1, column2;
+```
+⭐️ In Postgres, `DISTINCT ON` allows us to select distinct rows based on specific columns, which can be useful for complex cases.
+
+
 🧪 Practice
-[https://pgexercises.com/questions/basic/distinct.html](https://pgexercises.com/questions/basic/distinct.html)
+[https://pgexercises.com/questions/basic/distinct.html](https://pgexercises.com/questions/basic/distinct.html)](https://pgexercises.com/questions/basic/unique.html)
+
 
 ---
 
